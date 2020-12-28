@@ -1,0 +1,16 @@
+.errorTextarea {
+    border: 4px solid red;
+    box-sizing: border-box;
+}
+
+
+.errorInput {
+    color: red;
+}
+
+.errorForm {
+    border: 2px solid crimson;
+    color: darkmagenta;
+    display: inline-block;
+    padding: 6px;
+}

@@ -1,0 +1,49 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogs a {
+    text-decoration: none;
+    color: teal;
+    padding: 5px;
+}
+
+.dialogs .dialog:hover {
+    background-color: black;
+}
+
+.dialogs .dialog:hover a {
+    color: white;
+}
+
+.dialogsItem, .messages {
+    border: 2px solid black;
+}
+
+.message {
+    margin: 5px;
+}
+
+.dialog {
+    border: 1px solid black;
+    position: relative;
+}
+
+.dialog:first-child {
+    border-top: none;
+}
+
+.dialog:last-child {
+    border-bottom: none;
+}
+
+.dialog a {
+    display: block;
+
+}
+.dialog img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}

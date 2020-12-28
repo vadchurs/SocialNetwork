@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0cddee6-6dcf-40e1-93a3-8b0062e63eaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/awaitAsyncGenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/awaitAsyncGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/construct.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/construct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelperLoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelperLoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/createSuper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/createSuper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/decorate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/decorate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/get.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/inherits.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/inherits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/maybeArrayLike.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/maybeArrayLike.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/objectSpread.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/objectSpread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/objectSpread2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/objectSpread2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/readOnlyError.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/readOnlyError.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/set.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/slicedToArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/slicedToArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/slicedToArrayLoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/slicedToArrayLoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/superPropBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/superPropBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/temporalRef.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/temporalRef.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toConsumableArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toConsumableArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toPrimitive.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toPrimitive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/toPropertyKey.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/wrapRegExp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/esm/wrapRegExp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/interopRequireWildcard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/interopRequireWildcard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/readOnlyError.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/readOnlyError.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/toPrimitive.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/toPrimitive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/toPropertyKey.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/toPropertyKey.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/wrapRegExp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/helpers/wrapRegExp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@babel/runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/history/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/history/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/hoist-non-react-statics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/hoist-non-react-statics/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/js-tokens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/js-tokens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/loose-envify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/loose-envify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/mini-create-react-context/dist/cjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/mini-create-react-context/dist/cjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/mini-create-react-context/dist/cjs/index.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/mini-create-react-context/dist/cjs/index.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/mini-create-react-context/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/mini-create-react-context/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/object-assign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/object-assign/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/path-to-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/path-to-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/prop-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/prop-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-router-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-router-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/regenerator-runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/regenerator-runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/resolve-pathname/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/resolve-pathname/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/tiny-invariant/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/tiny-invariant/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/tiny-warning/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/tiny-warning/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/value-equal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/value-equal/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k2bZJnyRcESZ0eO4cvrw3miCqp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\incubator\socialNetwork\my-app\src\component\profile\status" />
+      <recent name="D:\incubator\socialNetwork\my-app\src\redux" />
+      <recent name="D:\incubator\socialNetwork\my-app\src\component\header" />
+      <recent name="D:\incubator\socialNetwork\my-app\src\component\profile" />
+      <recent name="D:\incubator\socialNetwork\my-app\src\assets\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0cddee6-6dcf-40e1-93a3-8b0062e63eaf" name="Default Changelist" comment="" />
+      <created>1599150169919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599150169919</updated>
+      <workItem from="1599150171343" duration="1520000" />
+      <workItem from="1599152333031" duration="1898000" />
+      <workItem from="1599155237068" duration="1992000" />
+      <workItem from="1599163173131" duration="1788000" />
+      <workItem from="1599164992266" duration="1790000" />
+      <workItem from="1599166832510" duration="1646000" />
+      <workItem from="1599222623151" duration="1123000" />
+      <workItem from="1599224435213" duration="1740000" />
+      <workItem from="1599226250064" duration="874000" />
+      <workItem from="1599229517932" duration="1474000" />
+      <workItem from="1599231328862" duration="2121000" />
+      <workItem from="1599254577757" duration="1780000" />
+      <workItem from="1599294862059" duration="1496000" />
+      <workItem from="1599306988458" duration="1789000" />
+      <workItem from="1599308809170" duration="1514000" />
+      <workItem from="1599310733791" duration="884000" />
+      <workItem from="1599312649828" duration="996000" />
+      <workItem from="1599429977146" duration="1777000" />
+      <workItem from="1599431798753" duration="1794000" />
+      <workItem from="1599433619805" duration="1789000" />
+      <workItem from="1599435511117" duration="1787000" />
+      <workItem from="1599437322714" duration="512000" />
+      <workItem from="1599775780238" duration="1271000" />
+      <workItem from="1600076245430" duration="1749000" />
+      <workItem from="1600078028443" duration="1622000" />
+      <workItem from="1600081342818" duration="1791000" />
+      <workItem from="1600083157960" duration="1874000" />
+      <workItem from="1600085193487" duration="1065000" />
+      <workItem from="1600088667755" duration="1558000" />
+      <workItem from="1600090383287" duration="2247000" />
+      <workItem from="1600095122571" duration="1304000" />
+      <workItem from="1600097065272" duration="1991000" />
+      <workItem from="1600099392686" duration="1342000" />
+      <workItem from="1600102766797" duration="405000" />
+      <workItem from="1600106307101" duration="1831000" />
+      <workItem from="1600108290175" duration="1782000" />
+      <workItem from="1600110114983" duration="1858000" />
+      <workItem from="1600112769364" duration="1784000" />
+      <workItem from="1600114579688" duration="723000" />
+      <workItem from="1600264823596" duration="1793000" />
+      <workItem from="1600283320731" duration="1086000" />
+      <workItem from="1600289532630" duration="1804000" />
+      <workItem from="1600291382200" duration="304000" />
+      <workItem from="1600291714186" duration="1198000" />
+      <workItem from="1600295574922" duration="1452000" />
+      <workItem from="1600324531729" duration="672000" />
+      <workItem from="1600328768167" duration="1788000" />
+      <workItem from="1600340801828" duration="1763000" />
+      <workItem from="1600342587027" duration="1799000" />
+      <workItem from="1600344417703" duration="1483000" />
+      <workItem from="1600348757206" duration="2301000" />
+      <workItem from="1600352154199" duration="1791000" />
+      <workItem from="1600353975197" duration="2231000" />
+      <workItem from="1600356238655" duration="1632000" />
+      <workItem from="1600360040028" duration="1429000" />
+      <workItem from="1600364477518" duration="2296000" />
+      <workItem from="1600368846274" duration="1319000" />
+      <workItem from="1600373303085" duration="1581000" />
+      <workItem from="1600416031744" duration="1802000" />
+      <workItem from="1600417860917" duration="1781000" />
+      <workItem from="1600419671950" duration="1788000" />
+      <workItem from="1600421486965" duration="378000" />
+      <workItem from="1600427440015" duration="873000" />
+      <workItem from="1600431306622" duration="1671000" />
+      <workItem from="1600440753457" duration="2379000" />
+      <workItem from="1600443676493" duration="1047000" />
+      <workItem from="1600447610817" duration="1784000" />
+      <workItem from="1600449421472" duration="1875000" />
+      <workItem from="1600451443214" duration="1782000" />
+      <workItem from="1600453257151" duration="1784000" />
+      <workItem from="1600455070032" duration="1087000" />
+      <workItem from="1600458739270" duration="1199000" />
+      <workItem from="1600464884242" duration="2216000" />
+      <workItem from="1600596023964" duration="1749000" />
+      <workItem from="1600597802899" duration="1784000" />
+      <workItem from="1600599617440" duration="435000" />
+      <workItem from="1600607746579" duration="1307000" />
+      <workItem from="1600609594079" duration="2026000" />
+      <workItem from="1600614361160" duration="1704000" />
+      <workItem from="1600626283515" duration="1754000" />
+      <workItem from="1600628106085" duration="1063000" />
+      <workItem from="1600630016958" duration="1841000" />
+      <workItem from="1600631894314" duration="2192000" />
+      <workItem from="1600640778725" duration="1812000" />
+      <workItem from="1600642624417" duration="2020000" />
+      <workItem from="1600678100195" duration="675000" />
+      <workItem from="1600799320641" duration="1748000" />
+      <workItem from="1600801103489" duration="1863000" />
+      <workItem from="1600802999713" duration="1443000" />
+      <workItem from="1600808035548" duration="1786000" />
+      <workItem from="1600809852547" duration="1741000" />
+      <workItem from="1600811891695" duration="1579000" />
+      <workItem from="1600851856641" duration="1784000" />
+      <workItem from="1600853677294" duration="915000" />
+      <workItem from="1600859829648" duration="1729000" />
+      <workItem from="1600862771045" duration="2115000" />
+      <workItem from="1600865294772" duration="1360000" />
+      <workItem from="1600867100327" duration="858000" />
+      <workItem from="1600870526819" duration="2049000" />
+      <workItem from="1600872603644" duration="624000" />
+      <workItem from="1600970404972" duration="1736000" />
+      <workItem from="1600972169290" duration="1791000" />
+      <workItem from="1600973992066" duration="1052000" />
+      <workItem from="1600979413051" duration="593000" />
+      <workItem from="1601042365715" duration="436000" />
+      <workItem from="1601048580366" duration="1782000" />
+      <workItem from="1601050442619" duration="854000" />
+      <workItem from="1601059877074" duration="1428000" />
+      <workItem from="1601061673930" duration="2189000" />
+      <workItem from="1601284878789" duration="619000" />
+      <workItem from="1601286731501" duration="1494000" />
+      <workItem from="1601288528580" duration="1736000" />
+      <workItem from="1601290339929" duration="2068000" />
+      <workItem from="1601328348758" duration="1786000" />
+      <workItem from="1601330163269" duration="1101000" />
+      <workItem from="1601504094116" duration="1421000" />
+      <workItem from="1601546541177" duration="1547000" />
+      <workItem from="1601548538662" duration="869000" />
+      <workItem from="1601558303087" duration="1738000" />
+      <workItem from="1601560357740" duration="180000" />
+      <workItem from="1601567299888" duration="2198000" />
+      <workItem from="1601569598638" duration="1748000" />
+      <workItem from="1601571430228" duration="829000" />
+      <workItem from="1601593212386" duration="1736000" />
+      <workItem from="1601594985654" duration="1786000" />
+      <workItem from="1601596799729" duration="848000" />
+      <workItem from="1601677248188" duration="266000" />
+      <workItem from="1601725868051" duration="1786000" />
+      <workItem from="1601727699915" duration="2314000" />
+      <workItem from="1601730483129" duration="1192000" />
+      <workItem from="1601732278932" duration="1076000" />
+      <workItem from="1601750004631" duration="1167000" />
+      <workItem from="1601751798540" duration="1338000" />
+      <workItem from="1601893065775" duration="1698000" />
+      <workItem from="1601894891504" duration="1734000" />
+      <workItem from="1601896726503" duration="841000" />
+      <workItem from="1601908063707" duration="909000" />
+      <workItem from="1601910174220" duration="1078000" />
+      <workItem from="1601911990347" duration="2044000" />
+      <workItem from="1601914067800" duration="1550000" />
+      <workItem from="1601915950759" duration="1788000" />
+      <workItem from="1601917768777" duration="1821000" />
+      <workItem from="1601919973277" duration="1768000" />
+      <workItem from="1601922864956" duration="1742000" />
+      <workItem from="1601924908130" duration="1656000" />
+      <workItem from="1601926721996" duration="1968000" />
+      <workItem from="1601929174914" duration="607000" />
+      <workItem from="1602026607802" duration="846000" />
+      <workItem from="1602032653390" duration="1411000" />
+      <workItem from="1602034597866" duration="836000" />
+      <workItem from="1602097815939" duration="868000" />
+      <workItem from="1602114623346" duration="4000" />
+      <workItem from="1602114979890" duration="79000" />
+      <workItem from="1602378900395" duration="1627000" />
+      <workItem from="1602380639081" duration="1754000" />
+      <workItem from="1602382455893" duration="1793000" />
+      <workItem from="1602460639945" duration="1775000" />
+      <workItem from="1602462444959" duration="1455000" />
+      <workItem from="1602514706437" duration="1785000" />
+      <workItem from="1602516523364" duration="1798000" />
+      <workItem from="1602518352488" duration="2291000" />
+      <workItem from="1602520725860" duration="688000" />
+      <workItem from="1602673411215" duration="1613000" />
+      <workItem from="1602676850695" duration="225000" />
+      <workItem from="1602679639913" duration="1048000" />
+      <workItem from="1602683695283" duration="1758000" />
+      <workItem from="1602685478118" duration="1756000" />
+      <workItem from="1602687529165" duration="1786000" />
+      <workItem from="1602689343362" duration="1943000" />
+      <workItem from="1602691336501" duration="489000" />
+      <workItem from="1602889446406" duration="1815000" />
+      <workItem from="1603837139033" duration="2071000" />
+      <workItem from="1603839750609" duration="1791000" />
+      <workItem from="1603841567829" duration="1789000" />
+      <workItem from="1603843383476" duration="485000" />
+      <workItem from="1603998229255" duration="768000" />
+      <workItem from="1604010902295" duration="1776000" />
+      <workItem from="1604012719234" duration="1748000" />
+      <workItem from="1604015099383" duration="1389000" />
+      <workItem from="1604741165835" duration="890000" />
+      <workItem from="1604743389605" duration="1798000" />
+      <workItem from="1604745213819" duration="1329000" />
+      <workItem from="1604779428271" duration="2130000" />
+      <workItem from="1604782363889" duration="2079000" />
+      <workItem from="1604798762892" duration="1337000" />
+      <workItem from="1604800905637" duration="2087000" />
+      <workItem from="1604901269781" duration="9000" />
+      <workItem from="1604901702965" duration="19807000" />
+      <workItem from="1605636172344" duration="81000" />
+      <workItem from="1609196863224" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605272237662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605272237662" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1604904154130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604904154130" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/component/profile/profileInfo/ProfileInfo.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/authRedirect/authRedirect.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

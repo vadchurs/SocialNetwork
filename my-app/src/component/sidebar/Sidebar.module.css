@@ -1,0 +1,20 @@
+.sidebar {
+    width: 12%;
+    background-color: chocolate;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 5px;
+}
+
+.sidebar a:hover {
+    background-color: black;
+    transition: 0.3s;
+}
+
+.sidebar a.activeLink {
+    color: gold;
+}

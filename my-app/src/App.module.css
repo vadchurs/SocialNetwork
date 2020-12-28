@@ -1,0 +1,16 @@
+.App {
+    padding: 0;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.wrapper {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapperContent {
+    width: 86%;
+    background-color: deepskyblue;
+}

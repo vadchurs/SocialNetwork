@@ -1,0 +1,46 @@
+.usersWrapper {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.avaBlock {
+    border: 1px solid black;
+    background-color: red;
+    cursor: pointer;
+}
+
+.avaBlock:hover img {
+   transform: scale(1.1);
+}
+
+.ava {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 70px;
+    height: 70px;
+    position: relative;
+}
+.avaBlock .ava img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: 0.4s all;
+}
+
+.discriptionBlock {
+    border: 1px solid red;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.status {
+    color: #E1D7D4;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
